@@ -9,7 +9,7 @@ Welcome to the official tactical war room for the **$MAGER** ecosystem. This rep
 ## 📢 THE $MAGER MANIFESTO
 
 ### 💎 TRANSPARENCY IS KING
-We operate in total clarity. Our **2.7% Developer Allocation** is not just a statistic; it is a formal commitment. This fund is dedicated to long-term sustainability, historical milestones, and the future of the ecosystem. We are here to build, not for a quick exit.
+We operate in total clarity. Our **2.7% Developer Allocation** is not just a statistic it is a formal commitment. This fund is dedicated to long-term sustainability, historical milestones, and the future of the ecosystem. We are here to build, not for a quick exit.
 
 ### 🌱 PRODUCTIVE STILLNESS
 We move with purpose and build with composure. While the market reacts in panic, we remain **"Mager"**—firmly anchored to our vision, patiently waiting for the moon to come to us. True strength lies in staying calm while others rush.
@@ -42,7 +42,7 @@ The success of **$MAGER** is a shared victory. When the Sloth reaches the moon, 
 * Community building & "Magerian Army" recruitment.
 * Finalizing 120+ exclusive brand assets.
 * GitHub architecture & Manifesto release.
-* **Target Launch:** Late April / Early May 2026.
+* **Target Launch:**  Early May / Juny 2026.
 
 ### Phase 2: Growth & Utility
 * Reaching Bonding Curve on Pump.fun.
