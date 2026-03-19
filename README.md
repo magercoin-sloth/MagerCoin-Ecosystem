@@ -42,7 +42,7 @@ The success of **$MAGER** is a shared victory. When the Sloth reaches the moon, 
 * Community building & "Magerian Army" recruitment.
 * Finalizing 120+ exclusive brand assets.
 * GitHub architecture & Manifesto release.
-* **Target Launch:**  Early May / Juny 2026.
+* **Target Launch:**  Early May / June 2026.
 
 ### Phase 2: Growth & Utility
 * Reaching Bonding Curve on Pump.fun.
