@@ -39,4 +39,6 @@ We move with purpose. While the market reacts in panic, we remain anchored in ou
 * **Founder Integrity:** 100% Fully crafted by a **Solo Developer (SLOTH KING)**, ensuring a singular vision and maximum dedication.
 
 ---
-**Copyright © 2026 PT Lunar Sloth Internasional.** *Built with Chill, Strategy, and Impact.*
+### 🛡️ Legal & Copyright
+This project is protected by the **PT Lunar Sloth Internasional** License. 
+For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE](LICENSE.md) file.
