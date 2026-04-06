@@ -19,6 +19,10 @@ We are building a seamless bridge between the Solana ecosystem and everyday life
 ### 🛠️ Core Focus:
 * **Real-World Utility:** Integration for PLN, Pulsa, and Travel bookings.
 * **Fiat Gateway:** Secure withdrawal to Indonesian Banks.
+---
+### 🔗 Repository Synergy
+* **mager-coin-official:** Project vision, Branding, and Community assets.
+* **MagerCoin-Ecosystem (This Repo):** Technical architecture, API documentation, and Roadmap implementation for the $MAGER App.
 
 ---
 *Built with patience. Powered by Solana. Driven by the Sloth King.*
