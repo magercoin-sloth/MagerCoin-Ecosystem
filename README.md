@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="1000042733.png" alt="PT Lunar Sloth Internasional Banner" width="100%">
+  <img src="Ptlunarsloth_internasional.png" alt="PT Lunar Sloth Internasional Banner" width="100%">
 </p>
 
 # 🏗️ PT Lunar Sloth Internasional: The Ecosystem Roadmap
