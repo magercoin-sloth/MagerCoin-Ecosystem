@@ -41,11 +41,9 @@ We move with purpose. While the market reacts in panic, we remain anchored in ou
 
 > **"We build in silence, but our code speaks volumes."** 🛠️💎
 
----
-
-### ⚖️ Legal & Copyright
-This project and its associated intellectual properties are protected under **PT Lunar Sloth Internasional**. 
-For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE.md](LICENSE.md) file.
+### 🛡️ Legal & Copyright
+This project is protected by the **PT Lunar Sloth Internasional** License. 
+For detailed information on usage, permissions, and restrictions, please refer to the [LICENSE](LICENSE.md) file.
 
 ---
 <p align="center">
