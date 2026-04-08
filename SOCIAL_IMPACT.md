@@ -50,7 +50,6 @@ We believe in **"Local Impact, Global Reach."** By establishing our roots in Gar
   Founder & CEO of PT Lunar Sloth Internasional
 </p>
 
-
 *© 2026 PT Lunar Sloth Internasional. All Rights Reserved. Built with Integrity.*
 
 </div>
