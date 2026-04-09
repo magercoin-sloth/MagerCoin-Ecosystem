@@ -27,7 +27,7 @@ We move with purpose. While the market reacts in panic, we remain anchored in ou
 
 | Pillar | Focus | Target Milestone | Status |
 | :--- | :--- | :--- | :--- |
-| **$MAGER Token** | Solana SPL Governance & Utility | **Launch Phase** | 🏗️ Preparation |
+| **$MAGER Token** | Solana SPL Governance & Utility | **Launch Phase** | ​✅ Development: Completed & Verified |
 | **Lunar Sloth Apps** | Lifestyle Payments (PLN, Pulsa, etc.) | **$70M - $100M MC** | 📅 Roadmap |
 | **Mager Shelter** | Social Welfare & Education | **$30M MC** | 🧱 Planning |
 | **Lunar Sloth HQ** | Tech Hub in **Garut, West Java** | **$30M MC** | 📍 Strategic Site |
