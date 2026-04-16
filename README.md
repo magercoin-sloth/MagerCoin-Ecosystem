@@ -58,6 +58,8 @@ At the **$30 Million Market Cap** milestone, we transition from digital foundati
 
 > 🛡️ **Note on Fiscal Responsibility:** This phased approach is strictly designed to protect the company’s treasury and ensure that every recruitment and construction move is backed by solid market valuation. We build sustainably; we grow inevitably.
 
+🕊️ For more details on our social impact, please read [**SOCIAL_IMPACT.md**](https://github.com/magercoin-sloth/MagerCoin-Ecosystem/blob/main/SOCIAL_IMPACT.md)
+
 ---
 
 ## 🛡️ SECURITY & INTEGRITY
